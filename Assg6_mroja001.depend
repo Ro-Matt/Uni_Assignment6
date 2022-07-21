@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585289553 source:c:\users\matthew rojas\iclouddrive\odu\spring 2020\cs 250\assignments\assignment 6\assg6_mroja001\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<time.h>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<cstdio>
+	<string>
+
